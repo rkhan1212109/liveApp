@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-      <h1 style={{textAlign:"center"}}>M.khalid</h1>
+      <h1 style={{textAlign:"center",color:"whiteM.khalid</h1>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
